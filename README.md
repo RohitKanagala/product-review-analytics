@@ -13,7 +13,7 @@ It combines large-scale product review analytics with sentiment classification u
 - Unique Products: 1,946,161
 
 ## Technologies Used
-- Python
+- Python 3.14.1
 - Apache Hadoop 3.3.6
 - Hadoop MapReduce
 - HDFS
