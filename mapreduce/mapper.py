@@ -7,7 +7,6 @@ for line in sys.stdin:
 
     if not line:
         continue
-
     try:
         product_id, rating = line.split("\t")
         rating = float(rating)
