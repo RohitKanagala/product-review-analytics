@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import sys
-
 current_product = None
 total_reviews = 0
 rating_sum = 0.0
