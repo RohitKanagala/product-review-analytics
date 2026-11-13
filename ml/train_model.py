@@ -13,7 +13,6 @@ from sklearn.metrics import (
     classification_report,
     confusion_matrix
 )
-
 # Load dataset
 data = pd.read_csv(
     "reviews_sample.csv"
