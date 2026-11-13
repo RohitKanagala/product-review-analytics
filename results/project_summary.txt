@@ -1,4 +1,4 @@
-PROJECT: Product Review Analytics Using Hadoop MapReduce
+PROJECT: Product Review Analytics Using Hadoop MapReduce & Machine Learning
 
 DATASET: Amazon Reviews 2023 - Electronics
 
