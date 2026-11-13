@@ -6,7 +6,6 @@ import os
 files = sorted(glob.glob(
     os.path.expanduser("~/product_review_analytics/dataset/*.parquet")
 ))
-
 parquet_file = pq.ParquetFile(files[0])
 
 samples = []
