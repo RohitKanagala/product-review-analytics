@@ -7,7 +7,6 @@ files = glob.glob(
         "~/product_review_analytics/dataset/*.parquet"
     )
 )
-
 print("Total Parquet files:", len(files))
 
 table = pq.read_table(
