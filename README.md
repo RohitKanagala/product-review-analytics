@@ -81,3 +81,5 @@ product_review_analytics/
 │   └── project_summary.txt
 ├── .gitignore
 └── README.md
+└── requirements.txt
+
